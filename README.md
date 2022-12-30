@@ -1,22 +1,16 @@
-# Capriccio
+# Online Music Recognition
 
 ### Demo
 
 [![Capriccio Demo Video](https://i.imgur.com/6qul89o.png)](https://youtu.be/AjBXx8oyJgM)
 
-### Inspiration
-As musicians, we can empathize with the struggles of new teachers and students as they hastily switch between jotting down melodies and sounding them out on a piano.
-
-As software developers, we also recognize the powers of technology to automate tedious and repetitive tasks.
-
-To bridge those two lives together, we came up with Capriccio.
 
 ### OMR - What Is It?
 Many of you may be familiar with optical character recognition (OCR), and the many companies that compete to do it the very best. Optical music recognition (OMR) is very similar, but far less studied and with equally fascinating applications.
 
 The world of OMR is dominated by professors and post-graduate students, but by combining Kotlin, OpenCV, and a dash of ingenuity we were able to make it happen in just one weekend.
 
-### How Capriccio Works
+### How it Works
 (1) SHEET MUSIC
 Capriccio starts at the mobile level, where a user can either take a photo of their handwritten music directly from the app, or import it from their gallery.
 
@@ -31,6 +25,3 @@ On the mobile end, we wanted to make the application target Android 10. This mea
 
 ### Accomplishments that we're proud of
 Despite the barriers we faced, our team is proud to have created an end-to-end application with so little time. We are also proud to have had such attention to detail, even going as far as to implement complicated animations just to open a dialog in Android.
-
-### What's next for Capriccio
-Try out Magenta! Magenta is an open source Python library that explores the role of machine learning in the process of creating art and music. It would be amazing to integrate Magenta into Capriccio, either to extend music by matching our inputs against a database, or to generate chord progressions to enhance a simple melody.
