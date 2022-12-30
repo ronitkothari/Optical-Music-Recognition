@@ -1,4 +1,4 @@
-# Online Music Recognition
+# Optical Music Recognition
 
 ### Demo
 
